@@ -11,7 +11,7 @@ CO-ARCHITECT (Optical/Photonic Subsystems): Christopher Cervantez ("Bundy")
 
 LEGAL ENTITY: K Systems and Securities
 
-EMAIL: ksystemsandsecurities@proton.me
+EMAIL: CROWNMATHEMATICS@PROTONMAIL.COM
 
 WALLET ID (CRYPTO ID LOCK): 0x75838c146cf3F31D6943E55E7720F08d7d70a314
 
